@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Loan Prediction Regression Project
 
 This project predicts loan amount using machine learning regression models.
@@ -16,4 +16,4 @@ This project predicts loan amount using machine learning regression models.
 - Pandas
 =======
 # LoanRegressionModel
->>>>>>> 48c52997d5d021c175d5d448ba39aebb63e74026
+
