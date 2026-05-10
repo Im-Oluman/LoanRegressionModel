@@ -14,6 +14,6 @@ This project predicts loan amount using machine learning regression models.
 - Python
 - Scikit-learn
 - Pandas
-=======
+  
 # LoanRegressionModel
 
